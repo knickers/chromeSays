@@ -1,7 +1,7 @@
 Chrome Says
 ===========
 
-A Simon Says type game, in-browser, with the old chrome logo. [Here](http://ncox.php.cs.dixie.edu/vt3000/chromeGame/) is an alpha version demo.
+A Simon Says type game, in-browser, with the old chrome logo. [Here](http://ncox.php.cs.dixie.edu/chromeGame/) is an alpha version demo.
 
 And its all done with javascript and html5 audio tags... No flash!
 
