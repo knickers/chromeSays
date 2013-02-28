@@ -1,0 +1,71 @@
+.button {
+	width: 50px;
+	height: 30px;
+	cursor: pointer;
+	border: 1px solid black;
+	text-align: center;
+	padding-top: 10px;
+	border-radius: 10px;
+	margin-bottom: 8px;
+	background-color: #3cc;
+}
+.button:hover {
+	background-color: #5dd;
+}
+.active {
+	background-color: #ff6
+}
+.active:hover {
+	background-color: #ff0;
+}
+#chrome {
+	top: -100px;
+	width: 640px;
+	height: 610px;
+	margin: auto;
+	position: relative;
+	background: url('images/chrome.png') 0 0;
+}
+#sensors {
+	position: relative;
+}
+#sensors li {
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	list-style: none;
+}
+#sensors a {
+	width: 100%;
+	height: 100%;
+	display: block;
+	text-decoration: none;
+}
+
+.green.n1 {top: 76px ; left: 69px ; width: 96px ; height: 77px ;}
+.green.n2 {top: 153px; left: 44px ; width: 140px; height: 36px ;}
+.green.n3 {top: 189px; left: 13px ; width: 195px; height: 141px;}
+.green.n4 {top: 330px; left: 13px ; width: 235px; height: 35px ;}
+.green.n5 {top: 365px; left: 21px ; width: 259px; height: 59px ;}
+.green.n6 {top: 424px; left: 45px ; width: 161px; height: 109px;}
+.green.n7 {top: 533px; left: 130px; width: 120px; height: 31px ;}
+.green.n8 {top: 564px; left: 178px; width: 115px; height: 17px ;}
+.green.n9 {top: 581px; left: 220px; width: 111px; height: 14px ;}
+
+.red.n1 {top: 20px ; left: 165px; width: 396px; height: 133px;}
+.red.n2 {top: 153px; left: 184px; width: 66px ; height: 36px ;}
+.red.n3 {top: 153px; left: 397px; width: 171px; height: 36px ;}
+.red.n4 {top: 189px; left: 439px; width: 144px; height: 35px ;}
+
+.yellow.n1 {top: 147px; left: 568px; width: 25px ; height: 42px ;}
+.yellow.n2 {top: 189px; left: 583px; width: 20px ; height: 35px ;}
+.yellow.n3 {top: 224px; left: 439px; width: 180px; height: 106px;}
+.yellow.n4 {top: 330px; left: 401px; width: 214px; height: 35px ;}
+.yellow.n5 {top: 365px; left: 280px; width: 328px; height: 59px ;}
+.yellow.n6 {top: 424px; left: 206px; width: 381px; height: 109px;}
+.yellow.n7 {top: 533px; left: 250px; width: 240px; height: 31px ;}
+.yellow.n8 {top: 564px; left: 293px; width: 139px; height: 17px ;}
+
+.blue.n1 {top: 153px; left: 250px ; width: 147px; height: 36px ;}
+.blue.n2 {top: 189px; left: 208px ; width: 231px; height: 141px;}
+.blue.n3 {top: 330px; left: 248px ; width: 153px; height: 35px ;}
